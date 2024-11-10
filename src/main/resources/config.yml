@@ -1,9 +1,9 @@
-world_name: "world"
-x: 0
+world_name: "world"    #出生世界
+x: 0                   #坐标
 y: 120
 z: 0
 yaw: 0
 pitch: 0
-messages:
+messages:         #进出消息(PlaceholderAPI support)
   join: "%player_name% JOIN THE GAME"
-  left: "%player_name% JOIN THE GAME"
+  left: "%player_name% LEFT THE GAME"
