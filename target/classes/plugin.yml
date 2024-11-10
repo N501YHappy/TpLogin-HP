@@ -1,0 +1,4 @@
+name: TpLogin-HP
+version: '1.0-SNAPSHOT'
+main: icu.n501yhappy.tploginhp.TpLogin_HP
+depend: [PlaceholderAPI]

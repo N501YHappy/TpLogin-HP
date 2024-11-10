@@ -1,0 +1,4 @@
+name: TpLogin-HP
+version: '${project.version}'
+main: icu.n501yhappy.tploginhp.TpLogin_HP
+depend: [PlaceholderAPI]
