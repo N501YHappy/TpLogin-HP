@@ -21,7 +21,7 @@
 ### 把这个插件放到你的服务器目录下/plugins文件夹并且reload你的服务器
 
 ## Download
-### [MineBBS](https://markdown.com.cn) [Spigot](https://markdown.com.cn) [Github releases](https://github.com/N501YHappy/TpLogin-HP/releases)
+### [MineBBS](https://markdown.com.cn) [Spigot](https://markdown.com.cn) [Github releases](https://github.com/N501YHappy/TpLogin-HP/releases) 自行编译(Java18 Maven IDEA)
 
 ## BUG
 ### 提交issues或发送EMAIL:n501yhappy@outlook.com
